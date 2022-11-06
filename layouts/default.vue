@@ -67,8 +67,12 @@ export default {
           title: 'Inspire',
           icon: 'lightbulb',
           to: { name: 'inspire' }
+        },
+        {
+          title: 'pages',
+          icon: 'home',
+          to: { name: 'pages' }
         }
-       
       ]
     }
   }
