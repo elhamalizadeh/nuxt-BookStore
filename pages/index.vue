@@ -1,5 +1,6 @@
 <template>
   <section class="section">
+    <Navbar />
     <div class="columns is-mobile">
       <card
         title="Free"
